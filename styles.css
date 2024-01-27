@@ -1,0 +1,16 @@
+*
+{
+  background-color: rgb(255, 196, 0);
+}
+h1
+{
+  font-size: 90px;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+a
+{
+  font-size: 50px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: rgb(150, 43, 0);
+}
