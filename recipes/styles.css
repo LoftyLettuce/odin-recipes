@@ -28,3 +28,7 @@ body h3
 {
   color: pink;
 }
+ul,ol
+{
+  color: aqua;
+}
